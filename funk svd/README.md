@@ -43,7 +43,6 @@ Only few works in literature compare strategies from the meta-perspective
   - Netflix competition –"stacking" recommender systems.
 
   - Weighted design based on more than 100 predictors.
-      - recommendation functions
-          
-  - Adaptive switching of weights based on user model and parameters.
+      - recommendation functions        
+      - Adaptive switching of weights based on user model and parameters.
 
