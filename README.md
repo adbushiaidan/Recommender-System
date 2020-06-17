@@ -9,14 +9,12 @@ user and the item.
   Sometimes more than one
 
 - Collaborative filtering
-
 Find similarities between the current user behaviour and the behaviour of other users  
 
 - Content based filtering  
 Use item information and the current user preferences
 
 - Knowledge bases  
-
 For additional insights  
 
 ## some test for Recommender-System Algorithms  
