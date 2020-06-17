@@ -1,8 +1,8 @@
 # Non-personalized Recommendations
 
-## Ranking and apriori method to Adjust dataset.
+Ranking and apriori method to Adjust dataset.
 
-## Survey network data consist of asking individuals whether they talked to or consulted anyone about some topic (name generator).
+urvey network data consist of asking individuals whether they talked to or consulted anyone about some topic (name generator).
 
 ## Question format:
 
