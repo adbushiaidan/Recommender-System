@@ -30,19 +30,20 @@
 ## Limitations and success of hybridization strategies 
 
 Only few works in literature compare strategies from the meta-perspective 
-    ## Empirical findings
-      - Monolithic: some preprocessing effort traded for more knowledge.
 
-       Mixed: simple to enact, works well in practice.
+## Empirical findings
+  - Monolithic: some preprocessing effort traded for more knowledge.
 
-      - Ensemble: requires careful matching of scores from different predictors. 
+  - Mixed: simple to enact, works well in practice.
 
-      - Pipelined: works well for two antithetic approaches.
+  - Ensemble: requires careful matching of scores from different predictors. 
 
-      - Netflix competition –"stacking" recommender systems.
+  - Pipelined: works well for two antithetic approaches.
 
-      - Weighted design based on more than 100 predictors.
-          - recommendation functions
+  - Netflix competition –"stacking" recommender systems.
+
+  - Weighted design based on more than 100 predictors.
+      - recommendation functions
           
-      - Adaptive switching of weights based on user model and parameters.
+  - Adaptive switching of weights based on user model and parameters.
 
