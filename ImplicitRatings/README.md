@@ -1,4 +1,4 @@
-# implicitRatings
+# ImplicitRatings
 
 ## Implicit Ratings and Machine Learning
 
