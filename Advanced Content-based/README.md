@@ -1,4 +1,6 @@
-# Content based recommenders try to Recommend items “similar” to those a given user has liked in the past.
+# Advanced Content-based
+
+## Content based recommenders try to Recommend items “similar” to those a given user has liked in the past.
 
 It builds a predictive model of the user preferences or the item features.  
 
