@@ -24,7 +24,7 @@ Step 4: Compute the predicted rating for the item.Only the ones that all the oth
 - Does not scale for most real world scenarios.
 - Large e commerce sites have tens of millions of customers and millions of items.
 
-##Model based approaches
+## Model based approaches
 - Offline pre processing or "model learning" phase.
 - At run time, make predictions only using the learned model.
 - Models are updated/re trained periodically.
